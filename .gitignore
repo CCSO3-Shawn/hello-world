@@ -1,7 +1,7 @@
 node_modules/
 
 #I want to ignore all files starting with the letter z
-z
+z*
 
 #I want to ignore a file called .env
 .env
