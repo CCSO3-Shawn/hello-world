@@ -1,1 +1,10 @@
 node_modules/
+
+#I want to ignore all files starting with the letter z
+z*
+
+#I want to ignore a file called .env
+.env
+
+#I want to ignore a top-level directory named artifacts
+/artifacts/
